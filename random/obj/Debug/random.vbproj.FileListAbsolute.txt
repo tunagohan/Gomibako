@@ -1,0 +1,24 @@
+C:\Users\tuna\AppData\Local\Temporary Projects\random\bin\Debug\random.exe.config
+C:\Users\tuna\AppData\Local\Temporary Projects\random\obj\Debug\random.vbprojResolveAssemblyReference.cache
+C:\Users\tuna\AppData\Local\Temporary Projects\random\obj\Debug\random.Form1.resources
+C:\Users\tuna\AppData\Local\Temporary Projects\random\obj\Debug\random.Resources.resources
+C:\Users\tuna\AppData\Local\Temporary Projects\random\obj\Debug\random.vbproj.GenerateResource.Cache
+C:\Users\tuna\AppData\Local\Temporary Projects\random\obj\Debug\random.xml
+C:\Users\tuna\AppData\Local\Temporary Projects\random\bin\Debug\random.exe
+C:\Users\tuna\AppData\Local\Temporary Projects\random\bin\Debug\random.pdb
+C:\Users\tuna\AppData\Local\Temporary Projects\random\bin\Debug\random.xml
+C:\Users\tuna\AppData\Local\Temporary Projects\random\obj\Debug\random.exe
+C:\Users\tuna\AppData\Local\Temporary Projects\random\obj\Debug\random.pdb
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\bin\Debug\random.exe.config
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\obj\Debug\random.exe
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\obj\Debug\random.xml
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\obj\Debug\random.pdb
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\bin\Debug\random.exe
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\bin\Debug\random.pdb
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\bin\Debug\random.xml
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\obj\Debug\random.Resources.resources
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\obj\Debug\random.vbproj.GenerateResource.Cache
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\obj\Debug\random.Form1.resources
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\bin\Debug\random.exe.CodeAnalysisLog.xml
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\bin\Debug\random.exe.lastcodeanalysissucceeded
+d:\Users\tuna\Documents\Visual Studio 2015\Projects\random\random\bin\Debug\ゴミ箱埋める君.exe.config
